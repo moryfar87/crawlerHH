@@ -1,0 +1,13 @@
+{
+  "name": "crawler",
+  "version": "1.0.0",
+  "description": "Парсер вакансий с HH.ru и экспорт в Excel",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "exceljs": "^4.4.0",
+    "playwright": "^1.42.0"
+  }
+}
